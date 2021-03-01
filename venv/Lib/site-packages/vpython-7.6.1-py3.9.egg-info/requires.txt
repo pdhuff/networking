@@ -1,0 +1,6 @@
+jupyter
+jupyter-server-proxy
+numpy
+ipykernel
+autobahn>=18.8.2
+autobahn
